@@ -48,7 +48,7 @@
    "provides" : {
       "Catalyst::Authentication::Store::UserXML" : {
          "file" : "lib/Catalyst/Authentication/Store/UserXML.pm",
-         "version" : "0.03"
+         "version" : "0.04"
       },
       "Catalyst::Authentication::Store::UserXML::Folder" : {
          "file" : "lib/Catalyst/Authentication/Store/UserXML/Folder.pm",
@@ -71,5 +71,5 @@
          "url" : "http://github.com/jozef/Catalyst-Authentication-Store-UserXML"
       }
    },
-   "version" : "0.03"
+   "version" : "0.04"
 }
